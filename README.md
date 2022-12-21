@@ -1,6 +1,14 @@
 # burppro
 Burp-Loader
 
+Change java version:
+sudo update-alternatives --config java  
+
+OR 
+
+update-java-alternatives -l
+sudo update-java-alternatives -s <java version>
+
 ##################################** Prequisites **#############################################
 
 **If using in Windows 10, Download and Install Java and JDK**
